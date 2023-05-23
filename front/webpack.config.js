@@ -1,11 +1,8 @@
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
-const webpack = require("webpack");
-module.exports = (env) => {
-
-    return {
-        entry: "./src/index.tsx",
+module.exports = {
+    entry: "./src/index.tsx",
     output: {
         path: path.resolve(__dirname, "docs"),
         filename: "bundle.js",
@@ -46,14 +43,5 @@ module.exports = (env) => {
         new MiniCssExtractPlugin({
             filename: "styles/[name].css",
         }),
-        new webpack.DefinePlugin({
-            process: JSON.stringify({
-                env: {
-                    ...env,
-                    API: env.API,
-                },
-            }),
-        })
     ],
 };
-}

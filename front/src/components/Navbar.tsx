@@ -44,7 +44,7 @@ const NavbarComponent = () => {
 
 const Navbar2 = () => {
     return (
-        <Navbar bg='light' expand="lg">
+        <Navbar sticky="top" bg='light' expand="lg">
             <Container>
                 <Navbar.Brand href="#" className="navbar-brand d-flex align-items-center">
                     <img

@@ -49,7 +49,7 @@ const Navbar2 = () => {
                 <Navbar.Brand href="#" className="navbar-brand d-flex align-items-center">
                     <img
                         alt="logo"
-                        src="https://th.bing.com/th/id/R.b757f2bca8039d4a08882d38f4c1b8f0?rik=l1HvTt1fIsaMmQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2ftwitter-logo-png-logo-twitter-in-png-2500.png&ehk=qSLAOlUdmImpXk6Jj6NUgKgK5gv%2fq1TGUwvlzdeBiNA%3d&risl=&pid=ImgRaw&r=0"
+                        src="https://ncsa.jp/application/files/7416/1941/7095/nehops_8p_NotePC.png"
                         width="30"
                         height="30"
                         className="d-inline-block align-top"

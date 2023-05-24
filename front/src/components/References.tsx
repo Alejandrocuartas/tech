@@ -16,7 +16,7 @@ const References = () => {
                         <div className="col-md-4 mb-5 mb-md-0">
                             <a target="_blank" href="https://duppa.com.co/">
                                 <div className="d-flex justify-content-center mb-4">
-                                    <img src="https://duppa.com.co/wp-content/uploads/2023/03/logo-duppa-2.svg"
+                                    <img src="https://media.licdn.com/dms/image/C4E0BAQEPpQJV1zzbnw/company-logo_200_200/0/1634739977799?e=1692835200&v=beta&t=cndBZX2xCkKFPqJ8I0KPtM3sv4UTUrZJqtNrAs0Xv8c"
                                         className="rounded-circle shadow-1-strong" width="150" height="150" />
                                 </div>
                             </a>

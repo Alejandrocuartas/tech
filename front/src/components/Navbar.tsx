@@ -9,7 +9,7 @@ const NavbarComponent = () => {
                 <Navbar.Brand href="#home">
                     <img
                         alt="logo"
-                        src="https://th.bing.com/th/id/OIP.Y3G05LE4eC3IcYNKaa1IbgHaEo?pid=ImgDet&w=186&h=116&c=7&dpr=1,1"
+                        src="https://ncsa.jp/application/files/7416/1941/7095/nehops_8p_NotePC.png"
                         width="30"
                         height="30"
                         className="d-inline-block align-top"

@@ -16,6 +16,9 @@ const OurTeam = () => {
                     </div>
                     <div className="row text-center">
                         <TeamMember
+                            description="Desarrollador Full Stack con experiencia en la creación de aplicaciones con Javascript, Typescript, Node.js, Golang, React.js, Webpack, Git, Express.js, Fastify.js, GraphQL, Socket.io, Jest, MySQL y MongoDB.
+                            En mis experiencias he demostrado ser proactivo, orientado al trabajo en equipo y capacitado para hablar con los usuarios y traducir sus necesidades en software.
+                            También tengo una sólida formación en habilidades matemáticas y algorítmicas para resolver problemas."
                             name="Alejandro Cuartas"
                             title="Desarrollador"
                             image="https://media.licdn.com/dms/image/D4E03AQEj5IDjB1TDtA/profile-displayphoto-shrink_800_800/0/1675399753741?e=1690416000&v=beta&t=5XbVtW7W1If0wqOP3OddPV5m51VMumexRuwCXEusIZ0"

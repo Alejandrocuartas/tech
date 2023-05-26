@@ -19,7 +19,7 @@ const TeamMember = ({ name, title, image, description, links }: { name: string, 
                 <span className="small text-uppercase text-muted">{title}</span>
                 <ul className="social mb-0 list-inline mt-3">
                     {
-                        links.map(l => <SocialLogo link={l} />)
+                        links.map(l => <SocialLogo key={l} link={l} />)
                     }
                 </ul>
             </div>
